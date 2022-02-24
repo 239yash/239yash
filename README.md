@@ -1,2 +1,2 @@
-- 💬 Repos are in private mode!
+- 💬 Few (Project & Work) Repos are in private mode!
 - 📫 Contact: 239yash@gmail.com
