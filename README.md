@@ -1,4 +1,5 @@
-- 💬 Few (Project & Work) Repos are in private mode!
+- 💬 Some projects(wip) & work repos are in private mode. Few completed ones are public!
+- 🎯 The heat map is green because I prefer to keep the solutions of DSA problems solved by me.
+- 💼 Work: Software development engineer at BharatPe, Mumbai, IND
 - 📫 Contact: 239yash@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/yasx
-- 💼 Work: SDE at BharatPe, Mumbai (MH)
