@@ -1,4 +1,4 @@
 - 💬 Some projects(wip) & work repos are in private mode. Few completed ones are public!
-- 💼 Work: Software development engineer at BharatPe, Mumbai, IND
+- 💼 Work: Software development engineer at BharatPe, Gurgaon, IND
 - 📫 Contact: 239yash@gmail.com
 - 🔗 LinkedIn: https://linkedin.com/in/yasx
